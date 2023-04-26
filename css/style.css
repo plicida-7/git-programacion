@@ -1,0 +1,13 @@
+.header{
+    height: 10%;
+    width: 100%;
+    background-color: blueviolet;
+    display: inline-flex;
+}
+.menu{
+    float: right;
+}    
+
+body{
+    display: inline-block;
+}
